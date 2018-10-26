@@ -20,7 +20,7 @@ const minifyOptions = {
   collapseBooleanAttributes: true,
   conservativeCollapse: true,
   sortAttributes: true,
-  ignoreCustomComments: [/^\.s*more/]
+  ignoreCustomComments: [/^\s*more/]
 }
 
 const optimize = (str, data) => {
