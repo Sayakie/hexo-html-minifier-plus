@@ -4,7 +4,7 @@ HTML minifier & optimization plugin for [Hexo](https://hexo.io).
 
 ## Installation
 ```bash
-$ npm install git+https://git@github.com/Kurosnape/hexo-html-minifier-plus.git --save
+$ npm install Kurosnape/hexo-html-minifier-plus --save
 ```
 
 ## Usage
