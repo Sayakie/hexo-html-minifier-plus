@@ -1,0 +1,17 @@
+{
+  "name": "hexo-html-minifier-plus",
+  "version": "0.0.1",
+  "description": "Minify HTML files with html-minifier",
+  "main": "index.js",
+  "author": "Kurosnape",
+  "homepage": "https://github.com/Kurosnape/hexo-html-minifier-plus",
+  "repository": "Kurosnape/hexo-html-minifier-plus",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "html-minifier": "^3.5.21",
+    "minimatch": "^3.0.4"
+  },
+  "license": "MIT"
+}
